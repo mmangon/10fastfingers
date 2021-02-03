@@ -6,4 +6,5 @@ Fonctionne dans toutes les langues.
 
 # Fonctionnement
 pip install selenium
+
 py main.py
